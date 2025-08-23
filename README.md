@@ -44,8 +44,6 @@ python Gaussianbeam2Dfit.py
 ## Motivation
 Precise knowledge of beam parameters such as waist size, divergence, and M² is essential for laser optics experiments. This tool provides an open-source, user-friendly alternative to proprietary beam profiler software.
 
-## License
-MIT License.  
 
 ## Acknowledgments
 - Based on a MATLAB implementation for Gaussian beam analysis.  
