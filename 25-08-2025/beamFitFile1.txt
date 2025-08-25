@@ -1,0 +1,2 @@
+imagenumber normalized_chi-square waist_x waist_y I_max Offset Angle wavelength w_0_x w_0_y z_0_x z_0_y chi_square_px chi_square_py M_squared_x M_squared_y Rayleigh_length_x Rayleigh_length_y
+     1 0.0101 601.3245 445.9786 0.5289 -0.3032 -47.9858 461.0000 303.2975 21.5210 17.6698 55.9827 0.0155 0.0042 7.1627 1.0776 626.8830 3.1563
